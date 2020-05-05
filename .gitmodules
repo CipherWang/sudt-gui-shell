@@ -1,0 +1,3 @@
+[submodule "pyckbwallet"]
+	path = pyckbwallet
+	url = https://github.com/CipherWang/pyckbwallet.git
